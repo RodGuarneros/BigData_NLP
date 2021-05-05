@@ -10,3 +10,4 @@ Basic concepts:
 - Stopwords
 - Term Frequency
 - Inverse Document Frequency
+- Hasshing TF

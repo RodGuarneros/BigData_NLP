@@ -6,4 +6,5 @@ Raw Text >> Tokenization (similar to .split(), bag words) >> Stopwords Filtering
 Basic concepts: 
 
 - User Defined Function (UDF)
+- Tokenization
 - Stopwords

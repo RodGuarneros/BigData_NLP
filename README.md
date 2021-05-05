@@ -8,3 +8,5 @@ Basic concepts:
 - User Defined Function (UDF)
 - Tokenization
 - Stopwords
+- Term Frequency
+- Inverse Document Frequency
